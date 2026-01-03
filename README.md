@@ -2,8 +2,8 @@ Hi, I’m @GosBu
 - 🧪 I am currently completing the Postgraduate Bioinformatics Program at PJATK, graduating in 2025
 - 🧬 My interests include human genetics, next-generation sequencing, and epigenetics
 - I always seek the 'why' behind the data
-- 🌱 I am currently developing my skills in Python, R, and Linux
-- 📫 You can reach me - magorzata.bujak@gmail.com
+- 🌱 I am currently developing my skills in Python and bash scripts
+- 📫 You can reach me at magorzata.bujak@gmail.com
 
 
 
